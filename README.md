@@ -60,3 +60,17 @@ Here are some ideas to get you started:
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=vladyslavnUA&show_icons=true&title_color=fff&icon_color=ffbb00&text_color=9f9f9f&bg_color=151515" alt="my github stats" width="445"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladyslavnUA&layout=compact&show_icons=true&title_color=fff&icon_color=fc8930&text_color=9f9f9f&bg_color=151515" alt="languages" height="176">
 </p>
+
+<br>
+
+This received 
+![Profile views](https://gpvc.arturio.dev/vladyslavnUA)
+
+<br>
+
+**My Tech Stack:**
+|<a href="https://getbootstrap.com/"><img align="center" alt="Bootstrap" width="45px" src="https://obscureproblemsandgotchas.com/wp-content/uploads/2018/06/bootstrap-stack-e1530246058846.png"/></a>|<a href="https://www.djangoproject.com/"><img align="center" alt="Django" width="40px" src="https://verbose-equals-true.gitlab.io/django-postgres-vue-gitlab-ecs/django.jpg" /></a>|<a href="https://www.javascript.com/"><img align="center" alt="Node.js" width="35px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>|<a href="https://github.com/"><img align="center" alt="github" width="40px" src="https://image.flaticon.com/icons/png/512/25/25231.png"/></a>|<a href="https://www.python.org/"><img align="center" alt="python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"/></a>|
+| ------------- | ------------- |-------------   | ------------- | ------------- |
+|<a href="https://www.javascript.com/"><img align="center" alt="javascript" width="35px" src="https://e7.pngegg.com/pngimages/602/440/png-clipart-javascript-open-logo-number-js-angle-text.png"/></a>|<a href="https://www.html5.com/"><img align="center" alt="html" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"/></a>|<a href="https://www.w3schools.com/css/"><img align="center" alt="css" width="35px" src="https://ucarecdn.com/f49e8fc4-876f-49ef-934f-89812fc4125e/"/></a>|<a href="https://golang.org/"><img align="center" alt="golang" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png"/></a>|<a href="https://www.npmjs.com/"><img align="center" alt="npm" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png"/></a>|
+
+
