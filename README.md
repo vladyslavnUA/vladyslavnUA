@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <br>
 
 This received 
-![Profile views](https://gpvc.arturio.dev/vladyslavnUA)
+![Profile views](https://komarev.com/ghpvc/?username=vladyslavnUA&color=brightgreen)
 
 <br>
 
