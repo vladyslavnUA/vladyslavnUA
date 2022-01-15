@@ -50,10 +50,9 @@ Here are some ideas to get you started:
 
 **📫 How to reach me:**
 
-|<a href="https://www.linkedin.com/in/vladyslav-nykoliuk/"><img align="center" alt="linkedin" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"/></a>  | <a href="https://github.com/vladyslavnUA"><img align="center" alt="github" width="30px" src="https://image.flaticon.com/icons/png/512/25/25231.png"/></a> |
+|<a href="https://www.linkedin.com/in/vladyslav-nykoliuk/"><img align="center" alt="linkedin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png"/></a>  | <a href="https://github.com/vladyslavnUA"><img align="center" alt="github" width="30px" src="https://image.flaticon.com/icons/png/512/25/25231.png"/></a> |
 | ------------- | ------------- |
-|<a href="http://medium.com/@vladyslav.nykoliuk/"><img align="center" alt="medium" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111543.svg"/></a>  | <a href="http://ezweb.me/portfolio.html"><img align="center" alt="clients" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2920/2920277.svg"/></a>  |
-| <a href="mailto:vladyslavn@yahoo.com?subject=Hi!"><img align="center" alt="email" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/3721/3721749.svg"/></a>  | <a href="https://calendly.com/ezweb/15min?month=2020-11"><img align="center" alt="calendar" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/2693/2693507.svg"/></a> |
+|<a href="http://medium.com/@vladyslav.nykoliuk/"><img align="center" alt="medium" width="30px" src="https://image.winudf.com/v2/image1/Y29tLm1lZGl1bS5yZWFkZXJfaWNvbl8xNjAzMTIyMzM3XzA2Mw/icon.png?w=&fakeurl=1"/></a>  | <a href="https://www.vladyslav.us"><img align="center" alt="clients" width="30px" src="https://static.vecteezy.com/system/resources/thumbnails/003/731/316/small/web-icon-line-on-white-background-image-for-web-presentation-logo-icon-symbol-free-vector.jpg"/></a>  |
 
 
 
