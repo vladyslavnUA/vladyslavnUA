@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Header](https://i.imgur.com/yjy0IJx.jpg "Vladyslav Nykoliuk")](http://ezweb.me/)
-#### software engineer @ planet earth 🌍  
+#### software engineer @ planet earth 🌍
+#### born in Ukraine 💙💛
+
+<br>
 
 **🔭 Recent Projects:**
 <br>
